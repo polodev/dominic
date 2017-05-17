@@ -1,4 +1,4 @@
-00 = OO = 
+00 = OO = Ozzy Osbourne (biting the head off of a bat)
 
 ----------------------------------------------------------------------
 
@@ -14,78 +14,87 @@
 
 06 = OS = 
 
-07 = OG =
+07 = OG = James Bond (turning and shooting, viewed through gun barrel)
+          Oscar the Grouch
 
 08 = OH =
 
-09 = ON = 
+09 = ON = Oliver North
 
 ----------------------------------------------------------------------
 
-10 = AO = 
+10 = AO = ASHLEY OLSEN: has twin
 
 11 = AA = amy-adams:  Ellen DeGeneres praising her for 2 times golden globe award
 
-12 = AB = Amitabh Bachchan: 
+12 = AB = Amitabh Bachchan: controversial twitter about cricket
+          Antonio Banderas (swiping a Zorro Z with his sword)
+          Abhishek Bachchan
+          Alia Bhatt
 
-13 = AC = 
+13 = AC = AARON CARTER
+          ABBIE CORNISH - you deserve that from limitless
 
 14 = AD = Ajay Devgan: can laugh english, walk english, talk english
 
 15 = AE = Albert Einstein: writing on a blackboard
 
-16 = AS = 
+16 = AS = Anushka Sharma
 
-17 = AG = 
+17 = AG =Arnold Schwarzenneger (demanding Give me your clothes to biker) 
+        adam gilchrist
 
 18 = AH = Adolf Hitler: sieg-heiling
 
-19 = AN = 
+19 = AN =Alfred Nobel (lighting a match to a stick of dynamite) 
 
 ----------------------------------------------------------------------
 
 20 = BO = Buddha: sitting cross-legged under the Bo tree
+          Barack Obama (loudly debating Romney)
 
 21 = BA = Bill Atkinson (Macintosh developer): breaking into pixels
-        = Ben Affleck: 
-
+          Ben Affleck (as Daredevil, blocking throwing stars with his billy club)
 22 = BB = Banga bandhu Sheikh Mujibur Rahman: founding leader of Bangladesh
 
 23 = BC = Bradley Cooper: mysterious pill NZT-48 enables the user to access 100 percent of his brain.
+          Bill Clinton (hanging out at Oval Office desk)
 
 24 = BD = 
 
-25 = BE =
+25 = BE = Bruce Lee (karate chopping cement brick)
 
-26 = BS = 
+26 = BS = Ben Stiller (giving blue steel on the runway)
 
 27 = BG = Bill Gates: counting money and chuckling evilly
 
-28 = BH =
+28 = BH = 
 
 29 = BN = 
 
 ----------------------------------------------------------------------
 
-30 = CO = 
+30 = CO = Conan O'Brien (dancing jig in jeggings)
 
-31 = CA = 
+31 = CA = Captain America (frisbee-throws his shield)
 
 32 = CB = Christian Bale: morning push up after taking green leafy vegetable juice from Michael Caine
 
 33 = CC = Charlie Chaplin: twirling cane and waddling
 
 34 = CD = Cameron Diaz: Being knight like tom cruise at the end of the movie while she took our tom cruise from hospital
+          Charles Darwin (using beard to lasso a tortoise)
 
-35 = CE =
+35 = CE = Clint Eastwood "mumbling incoherently to chair"
 
-36 = CS = 
+36 = CS = Charlie Sheen (uh, winning to interviewer)
 
-37 = CG =
+37 = CG = Che Guevara (doing motorcycle wheelie wearing Che t-shirt)
+          Chris gayle
 
 38 = CH = Chris Hemsworth: Mighty thor lifting hammer(Mjolnir)
 
-39 = CN = 
+39 = CN = Chuck Norris (roundhouse kicking your face)
 
 ----------------------------------------------------------------------
 
@@ -97,12 +106,12 @@
 
 43 = DC = George Washington: chopping down cherry tree (Washington DC)
           Daniel Craig: James bond riding through roof
-
-44 = DD =
+          David Copperfield (making a pyramid disappear)
+44 = DD = Didier Drogba
 
 45 = DE =
 
-46 = DS = 
+46 = DS = dale steyn
 
 47 = DG =
 
@@ -129,39 +138,48 @@
 57 = EG =
 
 58 = EH = Emraan Hashmi: good @ kiss in movie scene
+         Ethan Hunt (suspended above CIA computer)
 
-59 = EN = 
+59 = EN = Edward Norton (hulk-fist smashing while turning into Hulk) 
 
 ----------------------------------------------------------------------
 
-60 = SO = 
+60 = SO = Sharon Osbourne (kissing/squeezing her pomeranian)
 
 61 = SA = Shakira: waka waka. this time for africa
+          Steve Austin (Stone-cold, piledriving another wrestler)
+          Saif Ali Khan
 
-62 = SB = 
+62 = SB = Sandra Bullock (driving bus dressed as Ms Congeniality)
 
 63 = SC = Simon Cowell: Judging X factor
 
 64 = SD = Sanjay Dutt: Gandhi giri in movie mastan giri in real life
+          Snoop Dogg (smoking a blunt in shades and braids)
 
 65 = SE =
 
 66 = SS = Suniel Shetty: Eating sugar cane in Dabur red tooth paste
+          Sylvester Stallone (leaps off a cliff to escape helicopter)
+          steve smith
 
-67 = SG =
+67 = SG = sourav ganguly , sunil gavaskar
 
 68 = SH = Salma Hayek: Kitty Softpaws fall in love with puss in boots
+      Stephen Hawking (spinning in wheelchair, getting sucked into black hole)
+      sakib al hasan
 
 69 = SN = 
 
 ----------------------------------------------------------------------
 
-70 = GO = 
+70 = GO = Gary Oldman (screaming "Everyone" at pilot with gun to his head)
 
 71 = GA = 
 
 72 = GB = George W. Bush: clearing brush in Crawford, TX
           Gerard Butler: telling ugly truth
+          Gareth bale
 
 73 = GC = George Clooney: liberal father with Shailene Woodley in 'The Descendants'
 
@@ -171,7 +189,8 @@
 
 76 = GS = 
 
-77 = GG =
+77 = GG = Gandalf the Grey (fly you fools and falls, leaving staff)
+          gautam gambhir (angry with virat)
 
 78 = GH = George Harrison: tapping foot and playing guitar
 
@@ -180,18 +199,19 @@
 ----------------------------------------------------------------------
 
 80 = HO = Santa Claus: laughing until belly shakes (HO HO HO!)
+          Haley Joel Osment (I see dead people to Bruce Willis)
 
 81 = HA = Humayun Ahmed: Himu wear yellow dress
 
-82 = HB = 
+82 = HB = Halle Barry (leaping as Catwoman) 
 
 83 = HC = 
 
-84 = HD =
+84 = HD = Humpty Dumpty (smashed open at wall crime scene)
 
 85 = HE = Isaac Newton (long white wig): releasing helium balloons (Newtonmas, HE HE HE!)
 
-86 = HS = 
+86 = HS = Harbhajan Singh
 
 87 = HG =
 
@@ -205,9 +225,9 @@
 
 91 = NA = Neil Armstrong: stepping onto Moon
 
-92 = NB = 
+92 = NB = Napoleon Bonaparte (hand in coat, standing for portrait)
 
-93 = NC = 
+93 = NC = Nicholas Cage (conducting Hallelujah in Face Off with gold guns)
 
 94 = ND =
 
