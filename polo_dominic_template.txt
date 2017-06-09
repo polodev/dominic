@@ -38,7 +38,7 @@
 
 15 = AE = Albert Einstein: writing on a blackboard
 
-16 = AS = Anushka Sharma
+16 = AS = Anushka Sharma: dancing with Virat kohali
 
 17 = AG =Arnold Schwarzenneger (demanding Give me your clothes to biker) 
         adam gilchrist
@@ -65,6 +65,7 @@
 24 = BD = Bobby deol: Celebrate fathers day with Dharmendra
 
 25 = BE = Bruce Lee (karate chopping cement brick)
+25  Billy Elliott --- Jumping in the air and dancing
 
 26 = BS = Ben Stiller (giving blue steel on the runway)
           BRITNEY SPEARS: 
@@ -141,7 +142,7 @@
 
 56 = ES = Edward Scissorhands --- snipping the bushes with his scissor hands
 
-57 = EG = Edward Grieg --- Conducting orchestra at the piano
+57 = EG = Edvard Grieg --- Conducting orchestra at the piano
 
 58 = EH = Ethan Hunt (suspended above CIA computer)
          Emraan Hashmi: good @ kiss in movie scene
@@ -163,29 +164,30 @@
 64 = SD = Sanjay Dutt: Gandhi giri in movie mastan giri in real life
           Snoop Dogg (smoking a blunt in shades and braids)
 
-65 = SE = SAM ELLIOT RIDING A BURNING HORSE IN GHOST RIDER
+65 = SE = SAM ELLIOT: RIDING A BURNING HORSE IN GHOST RIDER
 
 66 = SS = Steven Spielberg --- directing a movie
 Suniel Shetty: Eating sugar cane in Dabur red tooth paste
           Sylvester Stallone (leaps off a cliff to escape helicopter)
           steve smith
 
-67 = SG = sourav ganguly , sunil gavaskar
+67 = SG = sourav ganguly : bangali captaincy in india
+ sunil gavaskar
 
-68 = SH = Salma Hayek: Kitty Softpaws fall in love with puss in boots
-      Stephen Hawking (spinning in wheelchair, getting sucked into black hole)
+68 = SH = Stephen Hawking (spinning in wheelchair, getting sucked into black hole)
       sakib al hasan
+      Salma Hayek: Kitty Softpaws fall in love with puss in boots
 
-69 = SN = 
+69 = SN = SAM NEILL : RUNNING FROM A T.REX
 
 ----------------------------------------------------------------------
 
 70 = GO = Gary Oldman (screaming "Everyone" at pilot with gun to his head)
 
-71 = GA = 
+71 = GA = Georgio Armani --- making a suit
 
-72 = GB = George W. Bush: clearing brush in Crawford, TX
-          Gerard Butler: telling ugly truth
+72 = GB = Gerard Butler: telling ugly truth
+          George W. Bush: clearing brush in Crawford, TX
           Gareth bale
 
 73 = GC = George Clooney: liberal father with Shailene Woodley in 'The Descendants'
@@ -194,14 +196,14 @@ Suniel Shetty: Eating sugar cane in Dabur red tooth paste
 
 75 = GE = General Electric (a robot in uniform): saluting
 
-76 = GS = 
+76 = GS = Gloria Estefan --- Singing on stage
 
-77 = GG = Gandalf the Grey (fly you fools and falls, leaving staff)
-          gautam gambhir (angry with virat)
+77 = GG = gautam gambhir (angry with virat)
+          Gandalf the Grey (fly you fools and falls, leaving staff)
 
 78 = GH = George Harrison: tapping foot and playing guitar
 
-79 = GN = 
+79 = GN = Greg Norman --- Swinging a golf club
 
 ----------------------------------------------------------------------
 
@@ -212,23 +214,24 @@ Suniel Shetty: Eating sugar cane in Dabur red tooth paste
 
 82 = HB = Halle Barry (leaping as Catwoman) 
 
-83 = HC = 
+83 = HC =  HILLARY CLINTON:  presidential run with opponent donald trump
 
 84 = HD = Humpty Dumpty (smashed open at wall crime scene)
 
-85 = HE = Isaac Newton (long white wig): releasing helium balloons (Newtonmas, HE HE HE!)
+85 = HE = Herb Elliott --- Running very fast
+Isaac Newton (long white wig): releasing helium balloons (Newtonmas, HE HE HE!)
 
-86 = HS = Harbhajan Singh
+86 = HS = Harbhajan Singh: Married train girl Geeta Basra
 
-87 = HG =
+87 = HG = HG Wells --- driving the Time Machine
 
-88 = HH =
+88 = HH = HULK HOGAN: HULK HOGAN WRESTLING
 
-89 = HN = 
+89 = HN = Horatio Nelson --- Standing at the wheel of the ship
 
 ----------------------------------------------------------------------
 
-90 = NO = 
+90 = NO = NORMAN OSBOURNE TALKING TO HIS ALTER EGO IN THE MIRROR
 
 91 = NA = Neil Armstrong: stepping onto Moon
 
@@ -236,14 +239,15 @@ Suniel Shetty: Eating sugar cane in Dabur red tooth paste
 
 93 = NC = Nicholas Cage (conducting Hallelujah in Face Off with gold guns)
 
-94 = ND =
+94 = ND = NEIL DIAMOND FOREVER IN BLUE JEANS
 
-95 = NE =
+95 = NE = NOEL EDMUNDS TALKING TO THE BANKER
 
-96 = NS = 
+96 = NS = NEIL SEDAKA SINGING HAPPY BIRTHDAY SWEET 16
 
-97 = NG =
+97 = NG = Nell Gwyn:  long-time mistress of King Charles II
 
 98 = NH = Neil Patrick Harris: oooAwesome from how I met your mother
 
-99 = NN = 
+99 = NN = Nicholas Nickleby: Dickension charcter
+
