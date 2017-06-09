@@ -15,7 +15,7 @@
 14 ad = ajay devgan: can laugh english, walk english, talk english
 15 ae = albert einstein: writing on a blackboard
 16 as = anushka sharma: dancing with virat kohali
-17 ag =arnold schwarzenneger: demanding give me your clothes to biker
+17 ag = arnold schwarzenneger: demanding give me your clothes to biker
 18 ah = adolf hitler: sieg-heiling
 19 an = alfred nobel: lighting a match to a stick of dynamite
 20 bo = barack obama: loudly debating romney
